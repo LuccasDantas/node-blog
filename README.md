@@ -1,7 +1,5 @@
 # node-blog
 
-# Blog Responsivo 📰
-
 Projeto de blog responsivo desenvolvido com Node.js, Express, EJS e Sequelize.
 
 ## 🚀 Funcionalidades:
